@@ -33,8 +33,8 @@ sales, customer_segment
 ✅ Shipment Analysis – Delivery time comparisons across regions.
 ✅ Business Insights – Actionable recommendations for sales growth.
 
-📊 Dashboard Preview
-Power BI Dashboard Preview
+Here is my cool dashboard image link....
+![imgage alt](https://github.com/Abhishek6290/sales_dashboard/blob/main/dashboard.png?raw=true)
 
 📝 Step-by-Step Guide
 1. Data Preparation
